@@ -5,30 +5,30 @@
 
 ### Contacts
 
-__phone :__ +995 555 708 151
-__email:__ dashagrgrv121@gmail.com
-__telegtam :__ @ddgrgrv
-__github :__ @ddgrgrv
+__phone :__ +995 555 708 151 <br>
+__email:__ dashagrgrv121@gmail.com <br>
+__telegtam :__ @ddgrgrv <br>
+__github :__ @ddgrgrv <br>
 
 ---
 ### About
-I am a beginner developer. Now I am a postgraduate student, I plan to develop towards fullstack development.
+I am a beginner developer.<br> Now I am a postgraduate student, I plan to develop towards fullstack development.
 
 ---
 ### Education
-Ural Federal University
-Bachelor degree, Material science
+Ural Federal University<br>
+Bachelor degree, Material science<br>
 (2015 -2019)
 
-NUST MISIS
-Master degree, Material science
+NUST MISIS<br>
+Master degree, Material science<br>
 (2019 -2021)
 
 ---
 ### Work experience
 
-TMK group
-Research Engineer
+TMK group<br>
+Research Engineer<br>
 (2021-2013)
 
 ---
@@ -41,21 +41,25 @@ Research Engineer
 
 ---
 ### Code example
+Given an integer `x`, return `true` if `x` is a palindrome and `false` otherwise.
 
 ```
-#include <stdio.h>
-int main() {
-   printf("Hello, World!");
-   return 0;
-}
+var isPalindrome = function(x) {
+    let str = x.toString();
+    if (str === str.split("").reverse().join("")){
+        return true;
+    }else{
+        return false;
+    }
+};
 ```
 ---
 ### Courses
-* [Netology](www.netology.com) Basics of HTML and CSS (finish) 
-* [RS Schools](www.rsschool.com) Course «JavaScript/Front-end. Stage 1» (in progress)
+* [Skillbox](https://skillbox.ru/) Web development for beginners (finish) 
+* [RS Schools](https://rs.school/) Course «JavaScript/Front-end. Stage 1» (in progress)
 
 ---
 ### Languages
-* Russian (Mother language)
-* English (B1)
+* Russian (Native)
+* English (B1 according to the online test at [www.efset.org](www.efset.org)) ![картинка](https://media.licdn.com/dms/image/sync/C5627AQG9dTaUjbkNeg/articleshare-shrink_800/0/1678423624892?e=1679061600&v=beta&t=BPkX9MrARwfgaROGSSFAAXSY4kkSOIKHvb2rq8kVawg)
 * French (A1)
