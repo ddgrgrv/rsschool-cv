@@ -1,1 +1,1 @@
-# https://ddgrgrv.github.io/rsschool-cv/cv
+# https://ddgrgrv.github.io/rsschool-cv/
